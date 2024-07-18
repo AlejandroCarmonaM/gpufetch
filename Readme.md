@@ -1,6 +1,6 @@
 # gpufetch
 
-![gpufetch logo](./logo.png)
+![gpufetch logo](./logo-gpufetch.png)
 
 gpufetch is a command-line tool that provides detailed information about NVIDIA GPU(s) installed on your system. It is designed to be a introduction to how CUDA programmers can use GPU queried information to better its code. Besides a reduced set of information smaller than cuda-samples deviceQuery.cpp, it also introduces Tensor Core information based on the GPU Architecture and performs a Simple Memory Benchmark for Global Memory and L2 using queried information  
 
