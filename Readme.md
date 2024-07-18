@@ -22,7 +22,7 @@ gpufetch is a command-line tool that provides detailed information about NVIDIA 
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/username/gpufetch.git
+git clone https://github.com/AlejandroCarmonaM/gpufetch.git
 ```
 
 2. Navigate to the project directory:
